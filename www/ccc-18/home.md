@@ -13,10 +13,3 @@ Chisel is released as a collection of JARs file published through the official M
 ## SCHEDULE
 
 [See the Schedule](schedule.md)
-
-
-## How To Get Involved
-- [Chisel users Google group](http://groups.google.com/group/chisel-users)
-- [Get answers at Stack Overflow](http://stackoverflow.com/questions/tagged/chisel)
-- [Ask questions on the Chisel users mailing list](http://groups.google.com/group/chisel-users)
-- [File feature requests and bugs](http://github.com/freechipsproject/chisel3/issues)
