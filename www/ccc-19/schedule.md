@@ -1,4 +1,7 @@
-#  CONFERENCE AGENDA
+![alt text](https://raw.githubusercontent.com/freechipsproject/chisel3/master/docs/src/images/chisel_logo.svg?sanitize=true)
+---
+#  CHISEL COMMUNITY CONFERENCE 2019  AGENDA
+###Fudan University, Guanghua Hall (复旦大学光华楼), East Building 东辅楼, Room 202
 ## Day One -- August 3
 Registration & Networking
 1:00pm - 1:25pm

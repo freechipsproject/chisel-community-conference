@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/freechipsproject/chisel3/master/docs/src/images/chisel_logo.svg?sanitize=true)
+---
 # Day One -- November 13th
 ## Keynote: Jonathan Bachrach 9:00-9:30am
 
