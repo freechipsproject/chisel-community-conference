@@ -16,7 +16,7 @@ These pages are historical archives of the first three Chisel Community Conferen
 #  [CHISEL COMMUNITY CONFERENCE 2019  AGENDA](www/ccc-19/schedule.md)
 ###Fudan University, Guanghua Hall (复旦大学光华楼), East Building 东辅楼, Room 202
 
-#  [CHISEL COMMUNITY CONFERENCE 2019  AGENDA](www/ccc-18/schedule.md)
+#  [CHISEL COMMUNITY CONFERENCE 2018  AGENDA](www/ccc-18/schedule.md)
 ### University of California, Berkeley, International House
 
 ---
