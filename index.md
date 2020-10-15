@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+![alt text](https://raw.githubusercontent.com/freechipsproject/chisel3/master/docs/src/images/chisel_logo.svg?sanitize=true)
+---
+# Chisel Community Conference
+## Understanding Chisel
+Chisel is an open-source hardware construction language developed at UC Berkeley that supports advanced hardware design using highly parameterized generators and layered domain-specific hardware languages.
 
-You can use the [editor on GitHub](https://github.com/freechipsproject/chisel-community-conference/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Learn to Program in Chisel
+Chisel is released as a collection of JARs file published through the official Maven repo. Check out the Generator Bootcamp for a self-paced interactive tutorial in a Jupyter notebook and be running Chisel right away. Chisel uses the Scala Language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+These pages are historical archives of the first three Chisel Community Conferences.
 
-### Markdown
+# [Chisel Community Conference 2020](https://events.linuxfoundation.org/chisel-community-conference/)
+### Western Digital, Milpitas, CA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#  [CHISEL COMMUNITY CONFERENCE 2019  AGENDA](www/ccc-19/schedule.md)
+###Fudan University, Guanghua Hall (复旦大学光华楼), East Building 东辅楼, Room 202
 
-```markdown
-Syntax highlighted code block
+#  [CHISEL COMMUNITY CONFERENCE 2018  AGENDA](www/ccc-18/schedule.md)
+### University of California, Berkeley, International House
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freechipsproject/chisel-community-conference/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+## How To Get Involved
+- [Chisel users Google group](http://groups.google.com/group/chisel-users)
+- [Get answers at Stack Overflow](http://stackoverflow.com/questions/tagged/chisel)
+- [Ask questions on the Chisel users mailing list](http://groups.google.com/group/chisel-users)
+- [File feature requests and bugs](http://github.com/freechipsproject/chisel3/issues)
