@@ -13,10 +13,10 @@ These pages are historical archives of the first three Chisel Community Conferen
 # [Chisel Community Conference 2020](https://events.linuxfoundation.org/chisel-community-conference/)
 ### Western Digital, Milpitas, CA
 
-#  [CHISEL COMMUNITY CONFERENCE 2019  AGENDA](www/ccc-19/schedule.md)
+#  [CHISEL COMMUNITY CONFERENCE 2019](schedule-2019.md)
 ###Fudan University, Guanghua Hall (复旦大学光华楼), East Building 东辅楼, Room 202
 
-#  [CHISEL COMMUNITY CONFERENCE 2018  AGENDA](www/ccc-18/schedule.md)
+#  [CHISEL COMMUNITY CONFERENCE 2018](schedule-2018.md)
 ### University of California, Berkeley, International House
 
 ---
